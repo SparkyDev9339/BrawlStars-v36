@@ -5,7 +5,7 @@ The server includes new features that were not previously available in open sour
 there is a lot of shit code in the server, so I advise you not to use it all, but to "pull out" what you need from it and rewrite it.
 
 # Client
-Client created soon!
+![Client](https://t.me/c/1576600735/2)
 # Authors 
 Server: SaVok (tg: @sayonara_voke, discord: никитп#8005)
 Script: BreadDev (tg: @BreadDev)
